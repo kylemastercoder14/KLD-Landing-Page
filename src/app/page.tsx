@@ -61,11 +61,11 @@ const Home = () => {
         >
           <div className="absolute inset-0 bg-custom-gradient"></div>
           <div className="relative z-10 flex flex-col items-center justify-center">
-            <Image src="/kld-logo.png" alt="Logo" width={300} height={300} />
-            <p className="font-semibold text-6xl font-serif tracking-wider mt-5 text-white">
+            <Image src="/kld-logo.png" alt="Logo" width={200} height={200} />
+            <p className="font-semibold text-5xl font-serif tracking-wider mt-5 text-white">
               Kolehiyo ng Lungsod ng Dasmariñas
             </p>
-            <p className="text-yellow-400 text-8xl font-semibold mt-3 font-cursive">
+            <p className="text-yellow-400 text-7xl font-semibold mt-3 font-cursive">
               Building the foundation for the Dasmarineños!
             </p>
             <Link
